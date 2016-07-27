@@ -1,0 +1,45 @@
+.big-heading {
+
+	margin-top: 80px;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.intro {
+
+	padding:20px 20px 20px 20px;
+}
+
+
+.blocks {
+	padding-top:40px;
+	padding-left: 60px;
+	padding-right:40px;
+}
+
+
+
+.social-icons {
+
+	font-size: 30px;
+}
+
+
+/*More page*/
+
+.more {
+
+	padding: 20px 20px 20px 20px;
+	margin-top: 100px
+
+
+
+}
